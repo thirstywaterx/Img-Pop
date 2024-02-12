@@ -14,5 +14,7 @@ Use this HTML snippet on your page to utilize it:
         <div id="caption"></div>
  </div>
 ```
+Next clicking on any picture will bring up a popup.
+
 Preview:
 ![5fb98118fbcc3ecf844074c13b8d2be2.png](https://i.miji.bid/2024/02/12/5fb98118fbcc3ecf844074c13b8d2be2.png)
