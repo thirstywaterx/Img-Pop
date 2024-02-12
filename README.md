@@ -1,4 +1,4 @@
-# Img-Dialog
+# Img-Pop
 This is a project that can display images in a popup window. When a user clicks on any image on the page, an enlarged image will pop up. You can include two files in your page through links, for example:
 ```
 <link rel="stylesheet" href="https://example.com/dialog_img.css" />
